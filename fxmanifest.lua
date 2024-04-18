@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'rdr3'
 
-author 'YourName'
+author 'Strife Social Developments'
 description 'Random Encounter Script for RedM'
 version '1.0.0'
 
