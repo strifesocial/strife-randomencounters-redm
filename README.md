@@ -27,3 +27,7 @@ No dependencies.
 Imgs:
 https://imgur.com/a/2cft8UL
 https://imgur.com/a/r1ansy7
+--
+![image](https://github.com/strifesocial/strife-randomencounters-redm/assets/166969842/af6d59d6-a5b1-4603-8fc8-d5b88dbf379e)
+![image](https://github.com/strifesocial/strife-randomencounters-redm/assets/166969842/7d8145ec-5261-4d57-81e5-5437299c3582)
+
