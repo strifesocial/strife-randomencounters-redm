@@ -18,6 +18,8 @@ Features:
 
 Immerse your players in the unpredictability of the Wild West with the Random Encounter Script for RedM. Add a new layer of excitement and challenge to your server today!
 
+Note: Support is not provided for this resource. This resource is OPEN SOURCE and you have permission to modify, reproduce, copy or distribute non-commercially.
+
 --- 
 
 No dependencies.
